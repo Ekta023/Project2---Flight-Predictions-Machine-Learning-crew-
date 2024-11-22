@@ -75,3 +75,27 @@ Practical Implications:
 - Cross-validation and bootstrapping provide robust insights into model performance and generalization.
 - AIC complements these methods by penalizing overfitting, ensuring a balance between complexity and fit.
 
+
+
+Project Division and Contributions
+Our project was divided into four main parts, with each team member contributing their expertise to ensure a successful and comprehensive analysis:
+
+1. Data Preprocessing and Exploration
+Contributor: Ekta Shukla (A20567127)
+Ekta took the lead in cleaning and preparing the dataset for analysis. She handled missing values, normalized numerical data, and encoded categorical variables to make the dataset ready for modeling. She also conducted exploratory data analysis (EDA) to uncover trends, identify correlations, and detect outliers. Her work laid the foundation for building a reliable model by ensuring that the data was in the best possible shape.
+
+2. Model Implementation and AIC Evaluation
+Contributor: Rithika Kavitha Suresh (A20564346)
+Rithika was responsible for building the linear regression model and evaluating it using the Akaike Information Criterion (AIC). She calculated the residual sum of squares (RSS) and applied AIC to measure the trade-off between model complexity and fit. Her meticulous attention ensured that the model was both efficient and aligned with statistical standards.
+
+3. Cross-Validation and Bootstrapping
+Contributor: Roger Kewin Samson (A20563057)
+Roger focused on validating the model using advanced techniques like K-fold cross-validation and bootstrapping. He evaluated the model’s generalization performance by analyzing 
+𝑅^2 scores across folds and resampled datasets. His work provided robust evidence of the model’s stability and predictive power, ensuring it was not overfitted to the data.
+
+4. Analysis, Documentation, and Integration
+Contributor: Jude Rosun (A20564339)
+Jude took charge of tying everything together by analyzing the results and preparing the final documentation. He explained the findings clearly, highlighting what the metrics and evaluations meant in practical terms. Jude also ensured the documentation was comprehensive and user-friendly, making it easy for others to understand the process and conclusions.
+
+
+
